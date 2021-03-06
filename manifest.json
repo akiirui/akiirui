@@ -1,0 +1,19 @@
+{
+  "name": "Akatsuki's Homepage",
+  "short_name": "Akatsuki",
+  "icons": [
+    {
+      "src": "/images/favicon-192.png",
+      "sizes": "192x192",
+      "type": "images/png"
+    },
+    {
+      "src": "/images/favicon-512.png",
+      "sizes": "512x512",
+      "type": "images/png"
+    }
+  ],
+  "theme_color": "#f1f8e9",
+  "background_color": "#f1f8e9",
+  "display": "standalone"
+}
