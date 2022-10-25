@@ -14,17 +14,13 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-<b>「 Jack of all trades, master of none. 」</b>
-</div>
+<p><b>「 Jack of all trades, master of none. 」</b></p>
 
 <!--
-#### IM
-- Telegram: [@akiirui](https://t.me/akiirui)
-
-#### Soical
-- Twitter: [@akiirui](https://twitter.com/akiirui)
+Telegram: [@akiirui](https://t.me/akiirui)
+Twitter: [@akiirui](https://twitter.com/akiirui)
 -->
 
-#### PGP / GnuPG
 
-- [0x94E976626C884E53](https://github.com/akiirui/akiirui/blob/main/akatsuki.pub)
+PGP / GnuPG: [0x94E976626C884E53](https://github.com/akiirui/akiirui/blob/main/akatsuki.pub)
+</div>
