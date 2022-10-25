@@ -15,23 +15,12 @@ Here are some ideas to get you started:
 
 「 Jack of all trades, master of none. 」
 
-Salted fish 🐟 is here!
-
-Sometimes painting 🖌, sometimes programming ⌨, and always in a daze 😳.
-
 <!--
 ## IM
-
 - Telegram: [@akiirui](https://t.me/akiirui)
 
-
 ## Soical
-
 - Twitter: [@akiirui](https://twitter.com/akiirui)
-
-## Artwork
-
-- Pixiv: [@akiirui](https://www.pixiv.net/users/43633192) (Just started)
 -->
 
 ## PGP / GnuPG
