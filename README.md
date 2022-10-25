@@ -13,16 +13,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-「 Jack of all trades, master of none. 」
+<div align="center">
+<b>「 Jack of all trades, master of none. 」</b>
+</div>
 
 <!--
-## IM
+#### IM
 - Telegram: [@akiirui](https://t.me/akiirui)
 
-## Soical
+#### Soical
 - Twitter: [@akiirui](https://twitter.com/akiirui)
 -->
 
-## PGP / GnuPG
+#### PGP / GnuPG
 
 - [0x94E976626C884E53](https://github.com/akiirui/akiirui/blob/main/akatsuki.pub)
