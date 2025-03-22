@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 <!--
 Telegram: [@akiirui](https://t.me/akiirui)
-Twitter: [@akiirui](https://twitter.com/akiirui)
+X: [@akiirui](https://x.com/akiirui)
 -->
 
+PGP / GnuPG: [0x94E976626C884E53](https://github.com/akiirui.gpg)
 
-PGP / GnuPG: [0x94E976626C884E53](https://github.com/akiirui/akiirui/blob/main/akatsuki.pub)
 </div>
