@@ -16,7 +16,6 @@ a {
 
 span {
   font-family: "Roboto", sans-serif;
-  font-weight: bold;
 }
 
 /* Layout */
@@ -74,6 +73,16 @@ span {
 
 .text-desc {
   font-size: 1rem;
+}
+
+.text-h1,
+.text-name {
+  font-weight: bold;
+}
+
+.text-h2,
+.text-desc {
+  font-weight: normal;
 }
 
 @media (min-width: 768px) {
